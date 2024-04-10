@@ -1,5 +1,22 @@
 # Changelog
 
+## \[2.0.0-beta.12]
+
+### New Features
+
+- [`58a7a552d`](https://www.github.com/tauri-apps/tauri/commit/58a7a552d739b77b71d61af11c53f7f2dc7a6e7e)([#9378](https://www.github.com/tauri-apps/tauri/pull/9378)) Added the `set_zoom` function to the webview API.
+- [`58a7a552d`](https://www.github.com/tauri-apps/tauri/commit/58a7a552d739b77b71d61af11c53f7f2dc7a6e7e)([#9378](https://www.github.com/tauri-apps/tauri/pull/9378)) Add `zoom_hotkeys_enabled` to enable browser native zoom controls on creating webviews.
+
+### Bug Fixes
+
+- [`2f20fdf1d`](https://www.github.com/tauri-apps/tauri/commit/2f20fdf1d6b92fa8b9b38caf7321c3ce3e895f1b)([#9361](https://www.github.com/tauri-apps/tauri/pull/9361)) Fixes an issue causing compilation to fail for i686 and armv7 32-bit targets.
+- [`4c2e7477e`](https://www.github.com/tauri-apps/tauri/commit/4c2e7477e6869e2ce0578265825bbd42a5f28393)([#9309](https://www.github.com/tauri-apps/tauri/pull/9309)) Fix window centering not taking taskbar into account on Windows
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.0.0-beta.12`
+- Upgraded to `tauri-runtime@2.0.0-beta.12`
+
 ## \[2.0.0-beta.11]
 
 ### Bug Fixes

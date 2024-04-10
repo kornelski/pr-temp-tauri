@@ -54,6 +54,7 @@
     ".changes/csp-header-linux.md",
     ".changes/deb-rpm-post-pre-scripts-bundler.md",
     ".changes/deb-rpm-post-pre-scripts-config.md",
+    ".changes/deb-rpm-provides-conflicts-replaces.md",
     ".changes/dev-fn.md",
     ".changes/downgrade-minisign.md",
     ".changes/enhance-event-emit.md",
@@ -75,6 +76,7 @@
     ".changes/fix-ios-dev-logs.md",
     ".changes/fix-ipc-error-json.md",
     ".changes/fix-menu-remove-api.md",
+    ".changes/fix-metadata-on-close.md",
     ".changes/fix-migrate-updater.md",
     ".changes/fix-mobile-cmd-case.md",
     ".changes/fix-mobile-process-spawn.md",
@@ -82,12 +84,14 @@
     ".changes/fix-remote-domain-url.md",
     ".changes/fix-reparent.md",
     ".changes/fix-rewrite-schema.md",
+    ".changes/fix-runtime-wry-32bit.md",
     ".changes/fix-scope-resolution.md",
     ".changes/fix-tauri-build-license-field.md",
     ".changes/fix-tauri-build-unix.md",
     ".changes/fix-visibility-change.md",
     ".changes/fix-webview-close.md",
     ".changes/fix-window-center-monitor-scale.md",
+    ".changes/fix-window-center-work-area.md",
     ".changes/fix-window-destroy-deadlock.md",
     ".changes/global-api-script-path-plugins.md",
     ".changes/handle-empty-permissions.md",
@@ -130,6 +134,7 @@
     ".changes/rwh-06.md",
     ".changes/schema_str.md",
     ".changes/set-auto-resize.md",
+    ".changes/set-zoom.md",
     ".changes/strict-csp-isolation-frame.md",
     ".changes/tauri-build-codegen-capabilities.md",
     ".changes/tauri-build-dev-changes.md",
@@ -160,6 +165,8 @@
     ".changes/webview-bounds.md",
     ".changes/wry-0.36.md",
     ".changes/wry-0.37.md",
-    ".changes/wry-0.38.md"
+    ".changes/wry-0.38.md",
+    ".changes/zoom-hotkeys-enabled.md",
+    ".changes/zoom-polyfill.md"
   ]
 }

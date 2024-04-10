@@ -1,5 +1,12 @@
 # Changelog
 
+## \[2.0.0-beta.13]
+
+### Dependencies
+
+- Upgraded to `tauri-bundler@2.0.1-beta.9`
+- Upgraded to `tauri-utils@2.0.0-beta.12`
+
 ## \[2.0.0-beta.12]
 
 ### New Features
